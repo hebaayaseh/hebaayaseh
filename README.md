@@ -5,6 +5,7 @@
 <p align="center">
 Backend Developer • Problem Solver • API Developer • OOP
 </p>
+---
 
 
 
@@ -30,31 +31,12 @@ I’m always eager to expand my knowledge, enhance my skills, and gain practical
   <img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge" />
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hebaayaseh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔝 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebaayaseh&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 ## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heba-hesham-071a4a274">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 </p>
