@@ -44,11 +44,7 @@ I’m always eager to expand my knowledge, enhance my skills, and gain practical
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hebaayaseh&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebaayaseh&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hebaayaseh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hebaayaseh&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebaayaseh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
