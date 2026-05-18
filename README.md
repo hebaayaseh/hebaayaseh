@@ -40,3 +40,15 @@ I’m always eager to expand my knowledge, enhance my skills, and gain practical
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hebaayaseh&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebaayaseh&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hebaayaseh&theme=tokyonight&hide_border=true"/>
+</p>
